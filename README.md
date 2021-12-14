@@ -67,5 +67,5 @@ I would like to focus more on GRIDS and FLEX Box!! in my upcoming projects.(inde
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nehanalinik)
-- Twitter - [@yourusername](https://twitter.com/KennedyNalini)
+- Frontend Mentor - [@nehanalinik](https://www.frontendmentor.io/profile/nehanalinik)
+- Twitter - [@KennedyNalini](https://twitter.com/KennedyNalini)
