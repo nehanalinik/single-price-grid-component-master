@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/nehanalinik/single-price-grid-component-master)
+- Live Site URL: [live site URL](https://nehanalinik.github.io/single-price-grid-component-master/)
 
 ## My process
 
@@ -67,6 +67,5 @@ I would like to focus more on GRIDS and FLEX Box!! in my upcoming projects.(inde
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nehanalinik)
+- Twitter - [@yourusername](https://twitter.com/KennedyNalini)
