@@ -25,14 +25,17 @@ body {
   background-color: var(--lightGray);
 }
 .main {
-  width: 100vw;
-  height: 100vh;
+  /* width: 100vw;
+  height: 100vh; */
+  width: max-content;
+  height: auto;
+  margin: 5rem auto;
   display: grid;
   place-items: center;
 }
 .container {
   width: 65vw;
-  height: 50vh;
+  /* height: 50vh; */
 }
 .container div {
   padding: 1.1rem;
@@ -59,7 +62,7 @@ body {
   padding-bottom: 1rem;
 }
 
-.grid1 h3 {
+.grid1 .sub-heading {
   font-weight: 700;
   font-size: 1rem;
   color: var(--brightYellow);
@@ -70,20 +73,20 @@ body {
   background-color: var(--cyan);
 }
 
-.grid2 h3 {
+.grid2 h2 {
   color: var(--lightGray);
   font-size: 1rem;
   font-weight: 700;
   padding-bottom: 1rem;
 }
 
-.grid2 h2 {
+.grid2 .plan {
   color: var(--lightGray);
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 700;
   padding-bottom: 0.5rem;
 }
-.grid2 h2 span {
+.grid2 p span {
   color: hsl(179, 54%, 55%);
   font-size: 1rem;
   font-weight: 400;
@@ -114,19 +117,32 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-.grid3 h3 {
+.grid3 h2 {
   color: var(--lightGray);
   font-size: 1rem;
   font-weight: 600;
   padding-bottom: 1rem;
 }
 
-.grid3 p {
+.grid3 ul {
   color: var(--lightGray);
   font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.5rem;
+  list-style-type: none;
 }
+
+.attribution {
+  font-size: 1rem;
+  text-align: center;
+}
+.attribution a {
+  /* color: hsl(228, 45%, 44%); */
+  color: var(--cyan);
+  text-decoration: none;
+  padding-bottom: 0.5rem;
+}
+
 /* Media Queries */
 @media (max-width: 500px) {
   html {
